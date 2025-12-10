@@ -6,16 +6,10 @@
 </picture></h1>
 <p align="center">
 
+I'm Subham, a CS student with a strong passion for Java and building clean, efficient code. <br>I love exploring new technologies and aim to create impactful projects as I grow in the tech world.
 
-Email Me 👉 ✉️ **subhamnandi222006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on improving my skill** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
-- 💬 **Ask me about:** 
+- 🌱 **I’m currently working on improving my skill.**
 - 📫 **How to reach me:** subhamnandi222006@gmail.com
-- 😄 **Pronouns:** Subham
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Subham22206&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 <div align = "center" ,display="flex">  
@@ -33,8 +27,13 @@ Email Me 👉 ✉️ **subhamnandi222006@gmail.com** For Collaboration/Project o
 
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subham.nandi.711497) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhamnandi22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subham-nandi-352978379) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC8ZROp4shh-7zUO1JxzeesQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhamnandi222006@gmail.com) 
 
+<a href="https://www.linkedin.com/in/subham-nandi-352978379">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=subhamnandi222006@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="http://www.youtube.com/@SubhamNandi-h8u">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) </a>
+<a href="https://t.me/subhamnandi" >![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a>
+<a href ="https://www.facebook.com/subham.nandi.711497">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) </a>
+<a href="https://www.instagram.com/subhamnandi22">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
 # 📊 GitHub Stats
