@@ -7,7 +7,7 @@
 <p align="center">
   
 
-<img align="right" alt="coding" width="330" src="https://github.com/Subham222006/Subham222006/blob/main/Untitled%20design%20(3).gif">
+<img align="right" alt="coding" width="330" src="https://github.com/Subham222006/Subham222006/blob/main/github%20logo.gif">
 <p align="left">I'm Subham, a CS student🚀  with a strong passion for Java and building clean, efficient code. <br>I love exploring new technologies and aim to create impactful projects as I grow in the tech world. 💻</p>
 
 - 🌱 **I’m currently working on improving my skill.**
