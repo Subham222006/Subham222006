@@ -5,37 +5,47 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="40" height="40">
 </picture></h1>
 <p align="center">
+  
 
-I'm Subham, a CS student with a strong passion for Java and building clean, efficient code. <br>I love exploring new technologies and aim to create impactful projects as I grow in the tech world.
+<img align="right" alt="coding" width="330" src="https://github.com/Subham222006/Subham222006/blob/main/Untitled%20design%20(3).gif">
+<p align="left">I'm Subham, a CS student🚀  with a strong passion for Java and building clean, efficient code. <br>I love exploring new technologies and aim to create impactful projects as I grow in the tech world. 💻</p>
 
 - 🌱 **I’m currently working on improving my skill.**
-- 📫 **How to reach me:** subhamnandi222006@gmail.com
+- 🔥 **Problem Solver**
+- 🎨 **“Code is like art — the more refined it is, the more beautiful it becomes.”**  
+- 📬 **How to connect with me:** subhamnandi222006@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Subham22206&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+  <br clear="right"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Subham22206&label=Profile%20views&color=0e75b6&style=flat" alt="Subham222006" /> </p>
+ 
 <div align = "center" ,display="flex">  
 
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subham222006&theme=github-dark-dimmed&custom_title=Subham's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub followers](https://img.shields.io/github/followers/Subham222006)
+![GitHub followers](https://img.shields.io/github/followers/Subham222006) 
 
 [![](https://visitcount.itsvg.in/api?id=Subham222006&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)   
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Subham222006&theme=dark)](https://github.com/LordDashMe/github-contribution-stats/)
-# 💻 Tech Stack
+# 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="60">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="97.5" height="38">
   <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="173" height="60">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="133" height="60"><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="133" height="60">
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="105" height="60">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" width="72" height="60">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="99" height="60"><br>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" width="94" height="60">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="60"><br>
-  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" width="130" height="60">
+
 </p>
 
+# 🎨 Designing Tools
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" width="94" height="60">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="120" height="60">
+  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" width="130" height="60">
+</p>
 
 ## 🌐 Socials
 
