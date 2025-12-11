@@ -21,7 +21,7 @@
 <div align = "center" ,display="flex">  
 
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subham222006&theme=github-dark-dimmed&custom_title=Subham's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subham222006&theme=github-dark-dimmed&custom_title=Subham's%20Activity%20Graph&hide_border=true)](https://github.com/Subham222006/github-readme-activity-graph)
 
 ![GitHub followers](https://img.shields.io/github/followers/Subham222006) 
 
